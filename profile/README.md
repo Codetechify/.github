@@ -27,7 +27,3 @@ Got questions? Ideas? Want to collaborate? Reach out to us at [support@codetechi
 Join us in driving the future of tech innovation!
 
 © 2024 Codetechify Ecosystem. All Rights Reserved.
-
----
-
-Note: Replace the URL in the "Codetechify Main Repository" link with the actual URL of your organization's main repository on GitHub.

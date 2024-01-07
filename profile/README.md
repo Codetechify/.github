@@ -10,7 +10,7 @@ Codetechify is an innovative hub at the forefront of technological development a
 - **Edutechify:** A learning platform for continuous skill enhancement, offering courses, workshops, and community-driven knowledge sharing.
 
 ## Explore Our Main Repository
-Access our main repository for an in-depth look at our projects, resources, and collaborative opportunities: [Codetechify Main Repository](https://github.com/Codetechify-repo)
+Access our main repository for an in-depth look at our projects, resources, and collaborative opportunities: [Codetechify Main Repository](https://github.com/codetechify-repo)
 
 ## Join Our Community
 Whether you're an aspiring developer, a seasoned tech guru, or just passionate about technology, there's a place for you here. We believe in collaborative growth, community-driven innovation, and continuous learning. 
